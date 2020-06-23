@@ -1,6 +1,6 @@
 package di;
 
-public class BMICalResult {
+public class BMICalResult { 
 	
 	//멤버변수
 	private double lowWeight;
