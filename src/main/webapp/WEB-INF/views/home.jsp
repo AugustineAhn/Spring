@@ -87,5 +87,42 @@
 			</a>
 		</li>
 		
+		<li>
+			<a href="di/myBMICal" target="_blank">
+				BMI지수 계산하기
+			</a>
+		</li>
+		
+		<li>
+			<a href="di/myAvengers" target="_blank">
+				어벤져스 히어로
+			</a>
+		</li>
+		
+		
+		<li>
+			<a href="di/myAnnotation" target="_blank">
+				어노테이션을 이용한 DI활용
+			</a>
+		</li>
+		
+		<!-- 컨트롤러 : EnvironmentController -->
+		<h3>Environment객체를 이용한 외부파일 참조하기</h3>
+		<li>
+			<a href="environment/main1" target="blank">
+				외부파일 참조하기1(Environment객체 사용)
+			</a>
+		</li>
+		<li>
+			<a href="environment/main2" target="blank">
+				외부파일 참조하기2(XML설정파일 사용)
+			</a>
+		</li>
+		<li>
+			<a href="environment/main3" target="blank">
+				외부파일 참조하기3(어노테이션 사용)
+			</a>
+		</li>
+		
 </body>
 </html>
